@@ -1,0 +1,12 @@
+{
+  "name": "Retro Sticky",
+  "id": "1144461659278376327",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0",
+  "permissions": ["currentuser"]
+}
